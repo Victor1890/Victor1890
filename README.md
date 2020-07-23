@@ -1,6 +1,9 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## I'm Victor J. Rosario V. 
+[![Linkedin Badge](https://img.shields.io/badge/-VictorRosario-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-j-rosario-v/)](https://www.linkedin.com/in/victor-j-rosario-v/)
+[![Gmail Badge](https://img.shields.io/badge/-victorrosariodeveloper@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorrosariodeveloper@gmail.com)](mailto:victorrosariodeveloper@gmail.com)
+
 ## Software Developer 👨‍💻
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -27,7 +30,7 @@ const victor1890 = {
 };
 ```
 
----
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## What I Use
 
 <table>
@@ -67,6 +70,10 @@ const victor1890 = {
         <span>ASP.NET Core</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/dotnet.svg">
       </td>
+      <td width="25%" align="center">
+        <span>Flutter</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/flutter.svg">
+      </td>
     <tr valign="top">
       <td width="25%" align="center">
         <span>Visual Studio Code</span><br><br><br>
@@ -84,3 +91,9 @@ const victor1890 = {
     </tr>
   </tbody>
 </table>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![github stats](https://github-readme-stats.vercel.app/api?username=Victor1890&show_icons=true)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
