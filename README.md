@@ -1,16 +1,93 @@
-### Hi there 👋
-
 <!--
 **Victor1890/Victor1890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm Victor J. Rosario V. 
+## Software Developer 👨‍💻
+
+[![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/victor-j-rosario-v/)
+[![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:victorrosariodeveloper@gmail.com)
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+
+```javascript
+const victor1890 = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "C#", "C", "Java", "Dart"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        mobileApp: ["Flutter"], //bacis
+        hobbies: ["Coding", "Gaming", "Talking"],
+        frontEnd: {
+            js: ["React", "Next", "HTML"],
+            css: ["Materialize", "Material-UI", "Bootstrap"]
+        },
+        backEnd: {
+            js: ["Node", "express", "Deno"], //basic
+            asp: ["ASP.Net Core"]
+        },
+        databases: ["SQL Server", "sqlite", "Firebase"]
+    }
+};
+```
+
+---
+## What I Use
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗖</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗖#</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>JavaScripts</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Dart</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/dart.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>React</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Next Js</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nextjs.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>ASP.NET Core</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/dotnet.svg">
+      </td>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Visual Studio Code</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Visual Studio</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Git</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+     </tr>
+    </tr>
+  </tbody>
+</table>
