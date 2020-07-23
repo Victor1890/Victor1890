@@ -10,7 +10,7 @@
 const victor1890 = {
     pronouns: "He" | "Him",
     code: ["Javascript", "C#", "C", "Java", "Dart"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    askMeAbout: ["web dev", "tech", "app dev", "music", "games"],
     technologies: {
         mobileApp: ["Flutter"], //bacis
         hobbies: ["Coding", "Gaming", "Talking"],
