@@ -1,12 +1,12 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## I'm Victor J. Rosario V. 
-[![Linkedin Badge](https://img.shields.io/badge/-VictorRosario-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-j-rosario-v/)](https://www.linkedin.com/in/victor-j-rosario-v/)
-[![Gmail Badge](https://img.shields.io/badge/-victorrosariodeveloper@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorrosariodeveloper@gmail.com)](mailto:victorrosariodeveloper@gmail.com)
+[![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/Victor1890) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/victor-j-rosario-v) 
+ [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorrosariodeveloper@gmail.com)
 
 ## Software Developer 👨‍💻
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  In development
 
 
 ```javascript
