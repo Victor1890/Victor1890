@@ -1,7 +1,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## I'm Victor J. Rosario V. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-[![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/Victor1890) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/victor-j-rosario-v) 
+[![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/victor-j-rosario-v) 
  [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorrosariodeveloper@gmail.com)
 
 ## Software Developer 👨‍💻
@@ -12,14 +12,14 @@
 ```javascript
 const victor1890 = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "C#", "C", "Java", "Dart"],
+    code: ["Javascript", "Typescript", "C#", "C", "Java", "Dart"],
     askMeAbout: ["web dev", "tech", "app dev", "music", "games"],
     technologies: {
-        mobileApp: ["Flutter"], //bacis
+        mobileApp: ["Flutter","React-Native"], //bacis
         hobbies: ["Coding", "Gaming", "Talking"],
         frontEnd: {
-            js: ["React", "Next", "HTML"],
-            css: ["Materialize", "Material-UI", "Bootstrap"]
+            js: ["React", "Next", "VanilaJs"],
+            css: ["Materialize", "Material-UI", "Bootstrap", "Tailwind"]
         },
         backEnd: {
             js: ["Node", "express", "Deno"], //basic
@@ -52,14 +52,10 @@ const victor1890 = {
           <span></span>JavaScripts<br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
-      <td width="25%" align="center">
-        <span>Dart</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/dart.svg">
-      </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>React</span><br><br><br>
+        <span>React / React-Native</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
       <td width="25%" align="center">
