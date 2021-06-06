@@ -44,93 +44,93 @@ const victor1890 = {
     <!-- 1 -->
     <tr valign="top">
       <td width="25%" align="center">
-        <br/><br/><br/>
+        <br/><br/>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="25%" align="center">
-        <br/><br/><br/>
+        <br/><br/>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
       <td width="25%" align="center">
-        <br/><br/><br/>
+        <br/><br/>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <br/><br/><br/>
+        <br/><br/>
         <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
       </td>
     </tr>
     <!-- 2 -->
     <tr valign="top">
       <td width="25%" align="center">
-        <br/><br/><br/>
+        <br/><br/>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
       <td width="25%" align="center">
-        <br/><br/><br/>
+        <br/><br/>
         <img height="64px" src="https://cdn.svgporn.com/logos/nextjs.svg">
       </td>
       <td width="25%" align="center">
-        <br/><br/><br/>
+        <br/><br/>
         <img height="64px" src="https://cdn.svgporn.com/logos/dotnet.svg">
       </td>
       <td width="25%" align="center">
-        <br/><br/><br/>
+        <br/><br/>
         <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
       </td>
     </tr>
     <!-- 3 -->
     <tr valign="top">
       <td width="25%" align="center">
-        <br/><br/><br/>
+        <br/><br/>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
       <td width="25%" align="center">
-        <br/><br/><br/>
+        <br/><br/>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio.svg">
       </td>
       <td width="25%" align="center">
-        <br/><br/><br/>
+        <br/><br/>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <br/><br/><br/>
+        <br/><br/>
         <img height="64px" src="https://cdn.svgporn.com/logos/npm.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <br/><br/><br/>
+        <br/><br/>
         <img height="64px" src="https://cdn.svgporn.com/logos/wordpress-icon.svg">
       </td>
       <td width="25%" align="center">
-        <br/><br/><br/>
+        <br/><br/>
         <img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
       </td>
       <td width="25%" align="center">
-        <br/><br/><br/>
+        <br/><br/>
         <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
       </td>
       <td width="25%" align="center">
-        <br/><br/><br/>
+        <br/><br/>
         <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <br/><br/><br/>
+        <br/><br/>
         <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
       </td>
       <td width="25%" align="center">
-        <br/><br/><br/>
+        <br/><br/>
         <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
       </td>
       <td width="25%" align="center">
-        <br/><br/><br/>
+        <br/><br/>
         <img height="64px" src="https://cdn.svgporn.com/logos/materializecss.svg">
       </td>
       <td width="25%" align="center">
-        <br/><br/><br/>
+        <br/><br/>
         <img height="64px" src="https://cdn.svgporn.com/logos/material-ui.svg">
       </td>
     </tr>
