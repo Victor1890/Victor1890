@@ -3,7 +3,8 @@
 ## I'm **Victor J. Rosario V** <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/victor-j-rosario-v) 
- [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorrosariodeveloper@gmail.com)
+[![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorrosariodeveloper@gmail.com)
+[![CV](https://img.shields.io/badge/RESUME-CV-red?style=for-the-badge&logo=gmail&logoColor=white)](https://drive.google.com/file/d/1gNDOPcef5Q43_i40sR1YLPLoWuYDHwml/view?usp=sharing)
 
 ----
 
