@@ -2,8 +2,8 @@
 
 ## I'm **Victor J. Rosario V** <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-[![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/victor-j-rosario-v) 
-[![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorrosariodeveloper@gmail.com)
+<a href = "mailto:victorrosariodeveloper@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/victor-j-rosario-v" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 [![CV](https://img.shields.io/badge/RESUME-CV-red?style=for-the-badge&logo=gmail&logoColor=white)](https://drive.google.com/file/d/1gNDOPcef5Q43_i40sR1YLPLoWuYDHwml/view?usp=sharing)
 
 ----
@@ -14,7 +14,6 @@
 
 ```javascript
 const victor1890 = {
-    pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "C#", "C", "Java", "Dart"],
     askMeAbout: ["Responsable", "Organized", "Social", "Fast Learning", "Collaboratod / Contributor"],
     hobbies: ["Coding", "Gaming", "Talking", "to cook"],
@@ -25,10 +24,10 @@ const victor1890 = {
             css: ["Materialize", "Material-UI", "Bootstrap", "Tailwind"]
         },
         backEnd: {
-            js: ["Node", "express", "Deno"], //basic Deno
+            js: ["Node", "Express", "TypeORM", "Deno"], //basic Deno
             asp: ["ASP.Net Core"]
         },
-        databases: ["SQL Server", "sqlite", "Firebase", "MongoDB"]
+        databases: ["SQL Server", "SQLite", "Firebase", "MongoDB", "PostgreSQL"]
     }
 };
 ```
@@ -140,14 +139,16 @@ const victor1890 = {
 
 ## **📈 My GitHub Stats**
 
-<details>
-  <summary>Statistics</summary>  
-  <br />
-  <a href="https://github.com/victor1890/victor1890">
+<br />
+<a href="https://github.com/victor1890/victor1890">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor1890&hide=shaderlab,scss,makefile,cmake,java,dart,hlsl,c,r,shell,cpp&layout=compact" alt="Victor J. Rosario V. GitHub Stats"/>
-  </a>
-  <a href="https://github.com/victor1890/victor1890">
+</a>
+<a href="https://github.com/victor1890/victor1890">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=victor1890&show_icons=true&line_height=27&count_private=true" alt="Victor J. Rosario V. GitHub Stats" />
-  </a>
-</details>
+</a>
 
+<div>
+    
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+    
+</div>
