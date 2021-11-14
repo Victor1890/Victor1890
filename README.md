@@ -1,16 +1,33 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## I'm **Victor J. Rosario V** <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+## I'm **Victor J. Rosario V** <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">
 
-<a href = "mailto:victorrosariodeveloper@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/victor-j-rosario-v" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-[![CV](https://img.shields.io/badge/RESUME-CV-red?style=for-the-badge&logo=gmail&logoColor=white)](https://drive.google.com/file/d/1gNDOPcef5Q43_i40sR1YLPLoWuYDHwml/view?usp=sharing)
+
+<div align='left'>
+    <a href = "mailto:victorrosariodeveloper@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    </a>
+    <a href="https://www.linkedin.com/in/victor-j-rosario-v" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
+    <a href='https://drive.google.com/file/d/1gNDOPcef5Q43_i40sR1YLPLoWuYDHwml/view?usp=sharing'>
+        <img src='https://img.shields.io/badge/RESUME-CV-red?style=for-the-badge&logo=gmail&logoColor=white' target='_blank'/>
+    </a>
+</div>
+
+
+<div align='right'>
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
+    <a href="https://app.daily.dev/Victor1890">
+        <img src="https://api.daily.dev/devcards/773872eaf8514c99bbe1e8b17d69796b.png?r=p1o" width="150" alt="Victor J. Rosario V.'s Dev Card"/>
+    </a>
+</div>
+
 
 ----
 
 ## **FullStack Developer** 👨‍💻
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  In development
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  In development
 
 ```javascript
 const victor1890 = {
