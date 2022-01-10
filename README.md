@@ -31,17 +31,16 @@
 
 ```javascript
 const victor1890 = {
-    code: ["Javascript", "Typescript", "C#", "C", "Java", "Dart"],
+    code: ["Javascript", "Typescript", "C#", "C", "C++", "Java", "Dart"],
     askMeAbout: ["Responsable", "Organized", "Social", "Fast Learning", "Collaboratod / Contributor"],
-    hobbies: ["Coding", "Gaming", "Talking", "to cook"],
     technologies: {
-        mobileApp: ["React-Native"], //bacis
+        mobileApp: ["React-Native", "Flutter"], //bacis
         frontEnd: {
             js: ["React", "Next", "VanilaJs"],
             css: ["Materialize", "Material-UI", "Bootstrap", "Tailwind"]
         },
         backEnd: {
-            js: ["Node", "Express", "TypeORM", "Deno"], //basic Deno
+            [js || ts]: ["Node", "Express", "GraphQL", "TypeORM", "Deno"], //basic Deno
             asp: ["ASP.Net Core"]
         },
         databases: ["SQL Server", "SQLite", "Firebase", "MongoDB", "PostgreSQL"]
