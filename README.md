@@ -1,5 +1,5 @@
 
-## I'm **Victor J. Rosario V** <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">
+## I'm **Victor J. Rosario V**
 
 
 <div align='left'>
