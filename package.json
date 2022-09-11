@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Victor1890/victor-bitandbang.git"
+    "url": "git+https://github.com/Victor1890/Victor1890.git"
   },
   "homepage": "https://victorrosario1890.vercel.app",
   "scripts": {
@@ -37,7 +37,7 @@
     "standard": "12.0.1"
   },
   "bugs": {
-    "url": "https://github.com/Victor1890/victor-bitandbang/issues"
+    "url": "https://github.com/Victor1890/Victor1890/issues"
   },
   "dependencies": {}
 }
