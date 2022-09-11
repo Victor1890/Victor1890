@@ -29,18 +29,23 @@
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  In development
 
-```javascript
+## npm
+```sh
+npx victor1890
+```
+
+```js
 const victor1890 = {
     code: ["Javascript", "Typescript", "C#", "C", "C++", "Java", "Dart"],
     askMeAbout: ["Responsable", "Organized", "Social", "Fast Learning", "Collaboratod / Contributor"],
     technologies: {
         mobileApp: ["React-Native", "Flutter"], //bacis
         frontEnd: {
-            js: ["React", "Next", "VanilaJs"],
+            js: ["React", "NextJs", "VanilaJs"],
             css: ["Materialize", "Material-UI", "Bootstrap", "Tailwind"]
         },
         backEnd: {
-            [js || ts]: ["Node", "Express", "GraphQL", "TypeORM", "Deno"], //basic Deno
+            [js && ts]: ["Node", "Express", "GraphQL", "TypeORM", "Deno"], //basic Deno
             asp: ["ASP.Net Core"]
         },
         databases: ["SQL Server", "SQLite", "Firebase", "MongoDB", "PostgreSQL"]
@@ -146,6 +151,24 @@ const victor1890 = {
       <td width="25%" align="center">
         <br/><br/>
         <img height="64px" src="https://cdn.svgporn.com/logos/material-ui.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <br/><br/>
+        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
+      </td>
+      <td width="25%" align="center">
+        <br/><br/>
+        <img height="64px" src="https://cdn.svgporn.com/logos/typeorm.svg">
+      </td>
+      <td width="25%" align="center">
+        <br/><br/>
+        <img height="64px" src="https://cdn.svgporn.com/logos/websocket.svg">
+      </td>
+      <td width="25%" align="center">
+        <br/><br/>
+        <img height="64px" src="https://cdn.svgporn.com/logos/socket.io.svg">
       </td>
     </tr>
   </tbody>
