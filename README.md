@@ -37,18 +37,18 @@ npx victor1890
 ```js
 const victor1890 = {
     code: ["Javascript", "Typescript", "C#", "C", "C++", "Java", "Dart"],
-    askMeAbout: ["Responsable", "Organized", "Social", "Fast Learning", "Collaboratod / Contributor"],
+    askMeAbout: ["Responsible", "Organized", "Social", "Fast Learning", "Collaborator / Contributor"],
     technologies: {
         mobileApp: ["React-Native", "Flutter"], //bacis
-        frontEnd: {
-            js: ["React", "NextJs", "VanilaJs"],
+        frontend: {
+            js: ["React", "NextJs", "VanillaJs"],
             css: ["Materialize", "Material-UI", "Bootstrap", "Tailwind"]
         },
-        backEnd: {
-            [js && ts]: ["Node", "Express", "GraphQL", "TypeORM", "Deno"], //basic Deno
+        backend: {
+            [js || ts]: ["Node", "Express", "GraphQL", "TypeORM", "Deno", "Golang"], //basic Deno
             asp: ["ASP.Net Core"]
         },
-        databases: ["SQL Server", "SQLite", "Firebase", "MongoDB", "PostgreSQL"]
+        databases: ["SQL Server", "SQLite", "Firebase", "MongoDB", "PostgreSQL", "Redis"]
     }
 };
 ```
@@ -171,16 +171,34 @@ const victor1890 = {
         <img height="64px" src="https://cdn.svgporn.com/logos/socket.io.svg">
       </td>
     </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <br/><br/>
+        <img height="64px" src="https://cdn.svgporn.com/logos/redis.svg">
+      </td>
+      <td width="25%" align="center">
+        <br/><br/>
+        <img height="64px" src="https://cdn.svgporn.com/logos/go.svg">
+      </td>
+      <td width="25%" align="center">
+        <br/><br/>
+        <img height="64px" src="https://cdn.svgporn.com/logos/rust.svg">
+      </td>
+      <td width="25%" align="center">
+        <br/><br/>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mysql-icon.svg">
+      </td>
+    </tr>
   </tbody>
 </table>
 
 <br/><br/>
 
-## **📈 My GitHub Stats**
+## **📈 My GitHub Stats**x
 
 <br />
 <a href="https://github.com/victor1890/victor1890">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor1890&hide=shaderlab,scss,makefile,cmake,java,dart,hlsl,c,r,shell,cpp&layout=compact" alt="Victor J. Rosario V. GitHub Stats"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor1890&hide=csharp&layout=compact&langs_count=8" alt="Victor J. Rosario V. GitHub Stats"/>
 </a>
 <a href="https://github.com/victor1890/victor1890">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=victor1890&show_icons=true&line_height=27&count_private=true" alt="Victor J. Rosario V. GitHub Stats" />
@@ -188,6 +206,6 @@ const victor1890 = {
 
 <div>
     
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](output/github-contribution-grid-snake.svg)
     
 </div>

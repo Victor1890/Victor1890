@@ -22,6 +22,7 @@ const data = {
   npm: chalk.gray('https://npmjs.com/') + chalk.red('~victor1890'),
   github: chalk.gray('https://github.com/') + chalk.green('Victor1890'),
   linkedin: chalk.gray('https://linkedin.com/in/') + chalk.blue('victor-j-rosario-v'),
+  blog: chalk.gray('https://dev.to/') + chalk.blue('victor1890'),
   web: chalk.cyan('https://victorrosario1890.vercel.app'),
   npx: chalk.red('npx') + ' ' + chalk.white('victor1890'),
   labelWork: chalk.white.bold('    Work:'),
@@ -29,6 +30,7 @@ const data = {
   labelnpm: chalk.white.bold('     npm:'),
   labelGitHub: chalk.white.bold('  GitHub:'),
   labelLinkedIn: chalk.white.bold('LinkedIn:'),
+  labelBlog: chalk.white.bold('  Dev.to:'),
   labelWeb: chalk.white.bold('     Web:'),
   labelCard: chalk.white.bold('    Card:')
 }
@@ -41,6 +43,7 @@ const twittering = `${data.labelTwitter}  ${data.twitter}`
 const npming = `${data.labelnpm}  ${data.npm}`
 const githubing = `${data.labelGitHub}  ${data.github}`
 const linkedining = `${data.labelLinkedIn}  ${data.linkedin}`
+const bloging = `${data.labelBlog}  ${data.blog}`
 const webing = `${data.labelWeb}  ${data.web}`
 const carding = `${data.labelCard}  ${data.npx}`
 
@@ -52,6 +55,7 @@ const output = heading + // data.name + data.handle
   npming + newline + // data.labelnpm + data.npm
   githubing + newline + // data.labelGitHub + data.github
   linkedining + newline + // data.labelLinkedIn + data.linkedin
+  bloging + newline + // data.labelLinkedIn + data.linkedin
   webing + newline + newline + // data.labelWeb + data.web
   carding // data.labelCard + data.npx
 
