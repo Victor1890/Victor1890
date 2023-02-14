@@ -1,6 +1,6 @@
 {
   "name": "victor1890",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A personal card for Victor Jesús Rosario Vásquez (@Victor1890)",
   "main": "/bin/card.js",
   "bin": {
