@@ -18,10 +18,9 @@ const data = {
   name: chalk.white('           Victor Rosario'),
   shorthandle: chalk.white('Victor1890'),
   work: chalk.white('Full Stack Developer'),
-  twitter: chalk.gray('https://twitter.com/') + chalk.cyan('Victor_R1890'),
   npm: chalk.gray('https://npmjs.com/') + chalk.red('~victor1890'),
   github: chalk.gray('https://github.com/') + chalk.green('Victor1890'),
-  linkedin: chalk.gray('https://linkedin.com/in/') + chalk.blue('victor-j-rosario-v'),
+  linkedin: chalk.gray('https://linkedin.com/in/') + chalk.blue('victor-j-rosario-v') + chalk.gray('/?locale=en_US'),
   blog: chalk.gray('https://dev.to/') + chalk.blue('victor1890'),
   web: chalk.cyan('https://victorrosario1890.vercel.app'),
   npx: chalk.red('npx') + ' ' + chalk.white('victor1890'),
@@ -39,7 +38,6 @@ const data = {
 const newline = '\n'
 const heading = `${data.name} / ${data.shorthandle}`
 const working = `${data.labelWork}  ${data.work}`
-const twittering = `${data.labelTwitter}  ${data.twitter}`
 const npming = `${data.labelnpm}  ${data.npm}`
 const githubing = `${data.labelGitHub}  ${data.github}`
 const linkedining = `${data.labelLinkedIn}  ${data.linkedin}`
@@ -51,7 +49,6 @@ const carding = `${data.labelCard}  ${data.npx}`
 const output = heading + // data.name + data.handle
   newline + newline + // Add one whole blank line
   working + newline + // data.labelWork + data.work
-  twittering + newline + // data.labelTwitter + data.twitter
   npming + newline + // data.labelnpm + data.npm
   githubing + newline + // data.labelGitHub + data.github
   linkedining + newline + // data.labelLinkedIn + data.linkedin
