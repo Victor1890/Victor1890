@@ -6,10 +6,10 @@
     <a href = "mailto:victorrosariodeveloper@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
-    <a href="https://www.linkedin.com/in/victor-j-rosario-v" target="_blank">
+    <a href="https://www.linkedin.com/in/victor-j-rosario-v/?locale=en_US" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
-    <a href='https://drive.google.com/file/d/1gNDOPcef5Q43_i40sR1YLPLoWuYDHwml/view?usp=sharing'>
+    <a href='https://drive.google.com/file/d/1gNDOPcef5Q43_i40sR1YLPLoWuYDHwml/view?usp=sharing'> 
         <img src='https://img.shields.io/badge/RESUME-CV-red?style=for-the-badge&logo=gmail&logoColor=white' target='_blank'/>
     </a>
 </div>
@@ -189,23 +189,43 @@ const victor1890 = {
         <img height="64px" src="https://cdn.svgporn.com/logos/mysql-icon.svg">
       </td>
     </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <br/><br/>
+        <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <br/><br/>
+        <img height="64px" src="https://cdn.svgporn.com/logos/markdown.svg">
+      </td>
+      <td width="25%" align="center">
+        <br/><br/>
+        <img height="64px" src="https://cdn.svgporn.com/logos/vercel.svg">
+      </td>
+      <td width="25%" align="center">
+        <br/><br/>
+        <img height="64px" src="https://cdn.svgporn.com/logos/cloudflare.svg">
+      </td>
+    </tr>
   </tbody>
 </table>
 
 <br/><br/>
 
-## **📈 My GitHub Stats**x
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=victor1890&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=victor1890&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=victor1890&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<br />
-<a href="https://github.com/victor1890/victor1890">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor1890&hide=csharp&layout=compact&langs_count=8" alt="Victor J. Rosario V. GitHub Stats"/>
-</a>
-<a href="https://github.com/victor1890/victor1890">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=victor1890&show_icons=true&line_height=27&count_private=true" alt="Victor J. Rosario V. GitHub Stats" />
-</a>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=victor1890&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
-<div>
-    
-  ![Snake animation](output/github-contribution-grid-snake.svg)
-    
-</div>
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 🎮 Little Game
+
+![Snake animation](output/github-contribution-grid-snake.svg)
+
+## 😂 Random Dev Meme
+<img src="https://random-memer-production-4dae.up.railway.app/" title="Meme Victor Rosario - Victor1890" width="512px"/>
