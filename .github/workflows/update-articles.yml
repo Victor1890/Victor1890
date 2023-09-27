@@ -16,7 +16,7 @@ jobs:
       - name: Generate README
         uses: huantt/article-listing@v1.1.0
         with:
-          username: Victor1890
+          username: victor1890
           template-file: "README.md.template"
           out-file: "README.md"
           limit: 5
