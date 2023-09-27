@@ -14,7 +14,9 @@
 
 <div align='right'>
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
-    <a href="https://app.daily.dev/Victor1890"><img src="https://github.com/Victor1890/Victor1890/blob/master/devcard.svg" width="400" alt="Victor J. Rosario V.'s Dev Card"/></a>
+    <a href="https://app.daily.dev/Victor1890">
+        <img src="https://api.daily.dev/devcards/773872eaf8514c99bbe1e8b17d69796b.png?r=p1o" width="150" alt="Victor J. Rosario V.'s Dev Card"/>
+    </a>
 </div>
 
 
@@ -55,7 +57,7 @@ const victor1890 = {
 
 <table>
   <tbody>
-    <!-- 1 -->
+    
     <tr valign="top">
       <td width="25%" align="center">
         <br/><br/>
@@ -74,7 +76,7 @@ const victor1890 = {
         <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
       </td>
     </tr>
-    <!-- 2 -->
+    
     <tr valign="top">
       <td width="25%" align="center">
         <br/><br/>
@@ -93,7 +95,7 @@ const victor1890 = {
         <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
       </td>
     </tr>
-    <!-- 3 -->
+    
     <tr valign="top">
       <td width="25%" align="center">
         <br/><br/>
@@ -219,5 +221,50 @@ const victor1890 = {
 
 ![Snake animation](output/github-contribution-grid-snake.svg)
 
-## 😂 Random Dev Meme
-<img src="https://random-memer-production-4dae.up.railway.app/" title="Meme Victor Rosario - Victor1890" width="512px"/>
+## Below is my recent articles Victor Rosario collected from dev.to
+
+## My Recent Articles
+
+
+<table>
+        <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--i8PSzasg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1aqg2f8rbzkvodtn12y9.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/victor1890/optimizing-your-nodejs-project-best-practices-for-performance-and-efficiency-1ah0">👟 Optimizing Your Node.js Project: Best Practices for Performance and...</a>
+                <div>Introduction   Welcome to our blog on optimizing Node.js projects! We&#39;ll explore best...</div>
+                <div><i>13/06/2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--l3kEK55H--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zgttyvbso1nxgs16s2q9.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/victor1890/battle-of-the-nodejs-orms-sequelize-vs-typeorm-35ng">Battle of the Node.js ORMs: Sequelize vs TypeORM</a>
+                <div>Popular Object-Relational Mapping (ORM) libraries for Node.js include Sequelize and TypeORM. Both of...</div>
+                <div><i>05/04/2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--imOcFPoa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j5a8tdd6quhebl9cs0j5.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/victor1890/maximize-your-coding-efficiency-with-these-top-vs-code-plugins-583l">Maximize Your Coding Efficiency with These Top VS Code Plugins</a>
+                <div>Visual Studio Code is a super popular code editor that lots of developers use. It&#39;s packed with cool...</div>
+                <div><i>27/03/2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--o-GMFZBP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vhpztlcgz23cly64252l.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/victor1890/variable-declaration-in-javascript-3o52">Variable Declaration in JavaScript</a>
+                <div>In JavaScript, variables are declared using the keywords const, let, and var. Each of these keywords...</div>
+                <div><i>25/02/2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--87LPmXOi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ik7ii0w3r3q7wk08826a.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/victor1890/install-git-on-windows-35bm">🗃️ Install Git on Windows</a>
+                <div>What is Git?   GIT is a version control system designed by Linus Torvalds with the...</div>
+                <div><i>10/03/2022</i></div>
+            </td>
+        </tr>
+</table>
