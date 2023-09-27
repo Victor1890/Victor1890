@@ -2,7 +2,8 @@ name: "Article DEV"
 
 on:
  schedule:
-  - cron: '15 0 * * *'
+  # - cron: '15 0 * * *'
+  - cron: '1 * * * *'
 
 jobs:
     update-articles:
