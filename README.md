@@ -14,9 +14,7 @@
 
 <div align='right'>
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
-    <a href="https://app.daily.dev/Victor1890">
-        <img src="https://api.daily.dev/devcards/773872eaf8514c99bbe1e8b17d69796b.png?r=p1o" width="150" alt="Victor J. Rosario V.'s Dev Card"/>
-    </a>
+    <a href="https://app.daily.dev/Victor1890"><img src="https://github.com/Victor1890/Victor1890/blob/master/devcard.svg" width="400" alt="Victor J. Rosario V.'s Dev Card"/></a>
 </div>
 
 
