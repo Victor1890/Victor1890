@@ -225,4 +225,4 @@ const victor1890 = {
 
 ## My Recent Articles
 
-{{ template "articles.md.tpl" }}
+{{ template "article-table" .Articles }}
