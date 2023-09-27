@@ -222,3 +222,5 @@ const victor1890 = {
 ## My Recent Articles
 
 {{ template "article-table" .Articles }}
+
+*Updated at: {{ formatTime .Time }}*
