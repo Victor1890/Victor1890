@@ -54,10 +54,8 @@ const victor1890 = {
 
 ## **What I Use**
 
-
 <table>
   <tbody>
-    
     <tr valign="top">
       <td width="25%" align="center">
         <br/><br/>
@@ -76,7 +74,6 @@ const victor1890 = {
         <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
       </td>
     </tr>
-    
     <tr valign="top">
       <td width="25%" align="center">
         <br/><br/>
@@ -95,7 +92,6 @@ const victor1890 = {
         <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
       </td>
     </tr>
-    
     <tr valign="top">
       <td width="25%" align="center">
         <br/><br/>
