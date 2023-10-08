@@ -3,7 +3,7 @@ name: "Article Dev"
 on:
   workflow_dispatch:
   schedule:
-    - cron: "15 * * * *"
+    - cron: "15 15 * * *"
   push:
     branches:
       - master
