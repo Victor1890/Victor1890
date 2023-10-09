@@ -3,7 +3,7 @@ name: "Article Dev"
 on:
   workflow_dispatch:
   schedule:
-    - cron: "15 */6 * * *"
+    - cron: "0 */4 * * *"
   push:
     branches:
       - master
@@ -22,13 +22,8 @@ jobs:
           limit: 5
       - name: Commit
         run: |
-          if git diff --exit-code; then
-              echo "No changes to commit."
-              exit 0
-          else
-              git config user.name github-actions
-              git config user.email github-actions@github.com
-              git add .
-              git commit -m "update-readme"
-              git push origin master
-          fi
+          git config user.name victor1890
+          git config user.email victorrosariodeveloper@gmail.com
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "[bot] Update README with latest info"
+          git push origin master
