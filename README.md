@@ -224,6 +224,14 @@ const victor1890 = {
 
 <table>
         <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--3Z-4Bw92--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x4x4jho99l9etmwa54rv.gif" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/victor1890/exploring-the-contrast-helpers-and-utils-demystified-47bo">Exploring the Contrast: Helpers and Utils Demystified</a>
+                <div>Helpers and utils are both commonly used terms in software development to refer to classes or modules...</div>
+                <div><i>11/10/2023</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--kxHghiXZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r8skhcjw9tz96b52jirs.jpg" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/victor1890/unlocking-nodejs-performance-the-art-of-data-caching-20l">Unlocking Node.js Performance: The Art of Data Caching</a>
@@ -255,14 +263,6 @@ const victor1890 = {
                 <div><i>27/03/2023</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--o-GMFZBP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vhpztlcgz23cly64252l.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/victor1890/variable-declaration-in-javascript-3o52">Variable Declaration in JavaScript</a>
-                <div>In JavaScript, variables are declared using the keywords const, let, and var. Each of these keywords...</div>
-                <div><i>25/02/2023</i></div>
-            </td>
-        </tr>
 </table>
 
-*Updated at: 2023-10-12T04:08:51Z*
+*Updated at: 2023-10-12T08:10:00Z*
