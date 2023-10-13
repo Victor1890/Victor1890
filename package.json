@@ -23,7 +23,11 @@
     "npm card",
     "npx",
     "npx card",
-    "business card"
+    "business card",
+    "readme",
+    "readme-template",
+    "readme-md",
+    "md"
   ],
   "author": "Victor Jesús Rosario Vásquez <victorrosariodeveloper@gmail.com> (victorrosario1890.vercel.app)",
   "license": "MIT",
