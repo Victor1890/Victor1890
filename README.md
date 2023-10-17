@@ -217,12 +217,20 @@ const victor1890 = {
 
 ![Snake animation](output/github-contribution-grid-snake.svg)
 
-## Below is my recent articles Victor Rosario collected from dev.to
+## Below is my recent articles Victor J. Rosario V. collected from dev.to
 
 ## My Recent Articles
 
 
 <table>
+        <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Ioci-t2d--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e53kttkird29cszce655.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/victor1890/from-good-to-great-scaling-applications-with-typeorm-optimization-837">From Good to Great: Scaling Applications with TypeORM Optimization</a>
+                <div>TypeORM is a popular Object-Relational Mapping (ORM) library for Node.js. It provides a high-level...</div>
+                <div><i>13/10/2023</i></div>
+            </td>
+        </tr>
         <tr>
             <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--3Z-4Bw92--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x4x4jho99l9etmwa54rv.gif" alt="thumbnail"></td>
             <td>
@@ -255,14 +263,6 @@ const victor1890 = {
                 <div><i>05/04/2023</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--imOcFPoa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j5a8tdd6quhebl9cs0j5.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/victor1890/maximize-your-coding-efficiency-with-these-top-vs-code-plugins-583l">Maximize Your Coding Efficiency with These Top VS Code Plugins</a>
-                <div>Visual Studio Code is a super popular code editor that lots of developers use. It&#39;s packed with cool...</div>
-                <div><i>27/03/2023</i></div>
-            </td>
-        </tr>
 </table>
 
-*Updated at: 2023-10-16T12:14:03Z*
+*Updated at: 2023-10-17T00:32:49Z*
