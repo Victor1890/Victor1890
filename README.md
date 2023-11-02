@@ -224,6 +224,14 @@ const victor1890 = {
 
 <table>
         <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--jrZgwcei--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/utf9mws6l69xkab0xpmp.jpg" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/victor1890/the-best-orms-for-nodejs-app-development-in-2023-1blk">The Best ORMs for Node.js App Development in 2023</a>
+                <div>What is an ORM?   Object-relational mapping (ORMs) are a type of software that provides a...</div>
+                <div><i>01/11/2023</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Ioci-t2d--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e53kttkird29cszce655.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/victor1890/from-good-to-great-scaling-applications-with-typeorm-optimization-837">From Good to Great: Scaling Applications with TypeORM Optimization</a>
@@ -255,14 +263,6 @@ const victor1890 = {
                 <div><i>13/06/2023</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--l3kEK55H--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zgttyvbso1nxgs16s2q9.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/victor1890/battle-of-the-nodejs-orms-sequelize-vs-typeorm-35ng">Battle of the Node.js ORMs: Sequelize vs TypeORM</a>
-                <div>Popular Object-Relational Mapping (ORM) libraries for Node.js include Sequelize and TypeORM. Both of...</div>
-                <div><i>05/04/2023</i></div>
-            </td>
-        </tr>
 </table>
 
-*Updated at: 2023-11-02T12:13:03Z*
+*Updated at: 2023-11-02T13:50:07Z*
