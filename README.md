@@ -224,7 +224,7 @@ const victor1890 = {
 
 <table>
         <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--jrZgwcei--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/utf9mws6l69xkab0xpmp.jpg" alt="thumbnail"></td>
+            <td width="300px"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Futf9mws6l69xkab0xpmp.jpg" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/victor1890/the-best-orms-for-nodejs-app-development-in-2023-1blk">The Best ORMs for Node.js App Development in 2023</a>
                 <div>What is an ORM?   Object-relational mapping (ORMs) are a type of software that provides a...</div>
@@ -232,7 +232,7 @@ const victor1890 = {
             </td>
         </tr>
         <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Ioci-t2d--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e53kttkird29cszce655.png" alt="thumbnail"></td>
+            <td width="300px"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe53kttkird29cszce655.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/victor1890/from-good-to-great-scaling-applications-with-typeorm-optimization-837">From Good to Great: Scaling Applications with TypeORM Optimization</a>
                 <div>TypeORM is a popular Object-Relational Mapping (ORM) library for Node.js. It provides a high-level...</div>
@@ -240,7 +240,7 @@ const victor1890 = {
             </td>
         </tr>
         <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--3Z-4Bw92--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x4x4jho99l9etmwa54rv.gif" alt="thumbnail"></td>
+            <td width="300px"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx4x4jho99l9etmwa54rv.gif" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/victor1890/exploring-the-contrast-helpers-and-utils-demystified-47bo">Exploring the Contrast: Helpers and Utils Demystified</a>
                 <div>Helpers and utils are both commonly used terms in software development to refer to classes or modules...</div>
@@ -248,7 +248,7 @@ const victor1890 = {
             </td>
         </tr>
         <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--kxHghiXZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r8skhcjw9tz96b52jirs.jpg" alt="thumbnail"></td>
+            <td width="300px"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr8skhcjw9tz96b52jirs.jpg" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/victor1890/unlocking-nodejs-performance-the-art-of-data-caching-20l">Unlocking Node.js Performance: The Art of Data Caching</a>
                 <div>Introduction   Caching is a technique that stores data in memory so that it can be accessed...</div>
@@ -256,7 +256,7 @@ const victor1890 = {
             </td>
         </tr>
         <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--i8PSzasg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1aqg2f8rbzkvodtn12y9.png" alt="thumbnail"></td>
+            <td width="300px"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1aqg2f8rbzkvodtn12y9.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/victor1890/optimizing-your-nodejs-project-best-practices-for-performance-and-efficiency-1ah0">👟 Optimizing Your Node.js Project: Best Practices for Performance and...</a>
                 <div>Introduction   Welcome to our blog on optimizing Node.js projects! We&#39;ll explore best...</div>
@@ -265,4 +265,4 @@ const victor1890 = {
         </tr>
 </table>
 
-*Updated at: 2024-01-19T16:13:50Z*
+*Updated at: 2024-01-19T20:12:09Z*
