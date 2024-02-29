@@ -224,6 +224,14 @@ const victor1890 = {
 
 <table>
         <tr>
+            <td width="300px"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbnr9ogihu4wcqqu8vvaz.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/victor1890/battle-of-the-nodejs-orms-sequelize-vs-prisma-3j8b">Battle of the Node.js ORMs: Sequelize vs. Prisma</a>
+                <div>In the ever-evolving landscape of Node.js development, choosing the right Object-Relational Mapper...</div>
+                <div><i>27/02/2024</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Futf9mws6l69xkab0xpmp.jpg" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/victor1890/the-best-orms-for-nodejs-app-development-in-2023-1blk">The Best ORMs for Node.js App Development in 2023</a>
@@ -255,14 +263,6 @@ const victor1890 = {
                 <div><i>08/10/2023</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1aqg2f8rbzkvodtn12y9.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/victor1890/optimizing-your-nodejs-project-best-practices-for-performance-and-efficiency-1ah0">👟 Optimizing Your Node.js Project: Best Practices for Performance and...</a>
-                <div>Introduction   Welcome to our blog on optimizing Node.js projects! We&#39;ll explore best...</div>
-                <div><i>13/06/2023</i></div>
-            </td>
-        </tr>
 </table>
 
-*Updated at: 2024-02-28T20:03:12Z*
+*Updated at: 2024-02-29T00:09:53Z*
