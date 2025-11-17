@@ -28,4 +28,4 @@ jobs:
           git config user.email victorrosariodeveloper@gmail.com
           git add README.md
           git diff --quiet && git diff --staged --quiet || git commit -m "[bot] Update README with latest info"
-          git push origin master
+          git push origin HEAD:refs/heads/$(git rev-parse --abbrev-ref HEAD)
