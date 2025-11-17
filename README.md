@@ -1,3 +1,4 @@
+
 # I'm Victor J. Rosario V
 
 [![Email](https://img.shields.io/badge/Email-victorrosariodeveloper%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorrosariodeveloper@gmail.com)
@@ -7,6 +8,7 @@
 <div align="right">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Hi" />
   <a href="https://app.daily.dev/Victor1890"><img src="https://api.daily.dev/devcards/773872eaf8514c99bbe1e8b17d69796b.png?r=p1o" width="140" alt="Victor's Dev Card" /></a>
+  <br/>
 </div>
 
 ---
@@ -15,15 +17,14 @@
 
 > Building web apps end‑to‑end with JavaScript/TypeScript across the stack. Passionate about clean architectures, performance, and developer experience.
 
-<!-- TIP-LIST:START -->
+
 > [!TIP]
 > I’m available for freelance and collaboration. Have an idea or need help shipping faster? Let’s connect.
 >
 > [![Contact Victor](https://img.shields.io/badge/Contact%20Victor-Email-success.svg?style=for-the-badge)](mailto:victorrosariodeveloper@gmail.com)
-<!-- TIP-LIST:END -->
+
 
 ### npm card
-
 ```sh
 npx victor1890
 ```
@@ -61,9 +62,9 @@ Curated projects with live GitHub stats via shields.
 
 ## 📝 Latest Articles
 
-<!-- BLOG-POST-LIST:START -->
-<!-- No posts yet. A GitHub Action can auto-fill this list from dev.to (@victor1890). -->
-<!-- BLOG-POST-LIST:END -->
+
+
+
 
 ---
 
