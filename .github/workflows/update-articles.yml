@@ -7,8 +7,8 @@ on:
     # - cron: "* 5 * * *"
     - cron: "*/5 * * * *" # every 5 minutes
   push:
-    branches:
-      - master
+    # branches:
+    #   - master
 jobs:
   update-articles:
     permissions: write-all
