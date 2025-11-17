@@ -1,226 +1,86 @@
 
-## I'm **Victor J. Rosario V**
+# I'm Victor J. Rosario V
 
+[![Email](https://img.shields.io/badge/Email-victorrosariodeveloper%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorrosariodeveloper@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-victor--j--rosario--v-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-j-rosario-v/?locale=en_US)
+[![Dev.to](https://img.shields.io/badge/Dev.to-@victor1890-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/victor1890)
 
-<div align='left'>
-    <a href = "mailto:victorrosariodeveloper@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a>
-    <a href="https://www.linkedin.com/in/victor-j-rosario-v/?locale=en_US" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a>
+<div align="right">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Hi" />
+  <a href="https://app.daily.dev/Victor1890"><img src="https://api.daily.dev/devcards/773872eaf8514c99bbe1e8b17d69796b.png?r=p1o" width="140" alt="Victor's Dev Card" /></a>
+  <br/>
 </div>
 
+---
 
-<div align='right'>
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
-    <a href="https://app.daily.dev/Victor1890">
-        <img src="https://api.daily.dev/devcards/773872eaf8514c99bbe1e8b17d69796b.png?r=p1o" width="150" alt="Victor J. Rosario V.'s Dev Card"/>
-    </a>
-</div>
+## Full Stack Developer
 
+> Building web apps end‑to‑end with JavaScript/TypeScript across the stack. Passionate about clean architectures, performance, and developer experience.
 
-----
+<!-- TIP-LIST:START -->
+> [!TIP]
+> I’m available for freelance and collaboration. Have an idea or need help shipping faster? Let’s connect.
+>
+> [![Contact Victor](https://img.shields.io/badge/Contact%20Victor-Email-success.svg?style=for-the-badge)](mailto:victorrosariodeveloper@gmail.com)
+<!-- TIP-LIST:END -->
 
-## **FullStack Developer** 👨‍💻
-
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  In development
-
-## npm
+### npm card
 ```sh
 npx victor1890
 ```
 
-```js
-const victor1890 = {
-    code: ["Javascript", "Typescript", "C#", "C", "C++", "Java", "Dart"],
-    askMeAbout: ["Responsible", "Organized", "Social", "Fast Learning", "Collaborator / Contributor"],
-    technologies: {
-        mobileApp: ["React-Native", "Flutter"], //bacis
-        frontend: {
-            js: ["React", "NextJs", "VanillaJs"],
-            css: ["Materialize", "Material-UI", "Bootstrap", "Tailwind"]
-        },
-        backend: {
-            [js || ts]: ["Node", "Express", "GraphQL", "TypeORM", "Deno", "Golang"], //basic Deno
-            asp: ["ASP.Net Core"]
-        },
-        databases: ["SQL Server", "SQLite", "Firebase", "MongoDB", "PostgreSQL", "Redis"]
-    }
-};
-```
+---
 
-----
+## 🥞 Tech Stack
 
-## **What I Use**
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="25%" align="center">
-        <br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="25%" align="center">
-        <br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
-      </td>
-      <td width="25%" align="center">
-        <br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nextjs.svg">
-      </td>
-      <td width="25%" align="center">
-        <br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/dotnet.svg">
-      </td>
-      <td width="25%" align="center">
-        <br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-      <td width="25%" align="center">
-        <br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio.svg">
-      </td>
-      <td width="25%" align="center">
-        <br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/npm.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/wordpress-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
-      </td>
-      <td width="25%" align="center">
-        <br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
-      </td>
-      <td width="25%" align="center">
-        <br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
-      </td>
-      <td width="25%" align="center">
-        <br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/materializecss.svg">
-      </td>
-      <td width="25%" align="center">
-        <br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/material-ui.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
-      </td>
-      <td width="25%" align="center">
-        <br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/typeorm.svg">
-      </td>
-      <td width="25%" align="center">
-        <br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/websocket.svg">
-      </td>
-      <td width="25%" align="center">
-        <br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/socket.io.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/redis.svg">
-      </td>
-      <td width="25%" align="center">
-        <br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/go.svg">
-      </td>
-      <td width="25%" align="center">
-        <br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/rust.svg">
-      </td>
-      <td width="25%" align="center">
-        <br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mysql-icon.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/markdown.svg">
-      </td>
-      <td width="25%" align="center">
-        <br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vercel.svg">
-      </td>
-      <td width="25%" align="center">
-        <br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/cloudflare.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
+---
 
-<br/><br/>
+## 🏗️ Featured Projects
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=victor1890&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=victor1890&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=victor1890&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Curated projects with live GitHub stats via shields.
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+| 📂 Project | ⭐ Stars | 🍴 Forks | 🚧 Issues | 📬 PRs |
+| --- | --- | --- | --- | --- |
+| [Profile README](https://github.com/Victor1890/Victor1890) | [![Stars](https://img.shields.io/github/stars/Victor1890/Victor1890)](https://github.com/Victor1890/Victor1890/stargazers) | [![Forks](https://img.shields.io/github/forks/Victor1890/Victor1890)](https://github.com/Victor1890/Victor1890/network/members) | [![Issues](https://img.shields.io/github/issues/Victor1890/Victor1890)](https://github.com/Victor1890/Victor1890/issues) | [![PRs](https://img.shields.io/github/issues-pr/Victor1890/Victor1890)](https://github.com/Victor1890/Victor1890/pulls) |
+
+> Want more here? I’ll add selected repos (apps, libs, demos) next.
+
+---
+
+## 📝 Latest Articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- No posts yet. A GitHub Action can auto-fill this list from dev.to (@victor1890). -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victor1890&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victor1890&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
 
 ## 🎮 Little Game
 
 ![Snake animation](output/github-contribution-grid-snake.svg)
 
-## Below is my recent articles {{ .Author }} collected from dev.to
+---
 
-## My Recent Articles
+## 👀 Profile Views
 
-{{ template "article-table" .Articles }}
-
-*Updated at: {{ formatTime .Time }}*
+[![Profile views](https://komarev.com/ghpvc/?username=Victor1890&style=for-the-badge&color=blue&abbreviated=true)](https://github.com/Victor1890)

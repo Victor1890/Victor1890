@@ -9,6 +9,7 @@ on:
     branches:
       - main
   schedule:
+    # - cron: "1 6 * * 3,6" # every Wednesday and Saturday at 6:01 AM
     - cron: "0 */4 * * *"
 
 jobs:
