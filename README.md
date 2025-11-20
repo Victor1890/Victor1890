@@ -63,8 +63,48 @@ Curated projects with live GitHub stats via shields.
 ## 📝 Latest Articles
 
 
-
-
+<table>
+        <tr>
+            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5p2wmtgjemvhqzuy1ni8.jpg" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/victor1890/say-goodbye-to-slow-renders-optimizing-react-apps-with-react-scan-2cpl">🔍 Say Goodbye to Slow Renders: Optimizing React Apps with...</a>
+                <div>Performance optimization is a critical aspect of building robust React applications, especially those...</div>
+                <div><i>02/12/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbnr9ogihu4wcqqu8vvaz.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/victor1890/battle-of-the-nodejs-orms-sequelize-vs-prisma-3j8b">Battle of the Node.js ORMs: Sequelize vs. Prisma</a>
+                <div>In the ever-evolving landscape of Node.js development, choosing the right Object-Relational Mapper...</div>
+                <div><i>27/02/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Futf9mws6l69xkab0xpmp.jpg" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/victor1890/the-best-orms-for-nodejs-app-development-in-2023-1blk">The Best ORMs for Node.js App Development in 2023</a>
+                <div>What is an ORM?   Object-relational mapping (ORMs) are a type of software that provides a...</div>
+                <div><i>01/11/2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe53kttkird29cszce655.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/victor1890/from-good-to-great-scaling-applications-with-typeorm-optimization-837">From Good to Great: Scaling Applications with TypeORM Optimization</a>
+                <div>TypeORM is a popular Object-Relational Mapping (ORM) library for Node.js. It provides a high-level...</div>
+                <div><i>13/10/2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx4x4jho99l9etmwa54rv.gif" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/victor1890/exploring-the-contrast-helpers-and-utils-demystified-47bo">Exploring the Contrast: Helpers and Utils Demystified</a>
+                <div>Helpers and utils are both commonly used terms in software development to refer to classes or modules...</div>
+                <div><i>11/10/2023</i></div>
+            </td>
+        </tr>
+</table>
 
 ---
 
