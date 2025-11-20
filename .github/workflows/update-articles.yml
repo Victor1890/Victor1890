@@ -3,12 +3,8 @@ name: "Article Dev"
 on:
   workflow_dispatch:
   schedule:
-    # - cron: "1 6 * * 3,6" # every Wednesday and Saturday at 6:01 AM
-    # - cron: "* 5 * * *"
-    - cron: "*/5 * * * *" # every 5 minutes
+    - cron: "1 6 * * 3,6" # every Wednesday and Saturday at 6:01 AM
   push:
-    # branches:
-    #   - master
 jobs:
   update-articles:
     permissions: write-all
