@@ -62,9 +62,7 @@ Curated projects with live GitHub stats via shields.
 
 ## 📝 Latest Articles
 
-<!-- BLOG-POST-LIST:START -->
-<!-- No posts yet. A GitHub Action can auto-fill this list from dev.to (@victor1890). -->
-<!-- BLOG-POST-LIST:END -->
+{{ template "article-table" .Articles }}
 
 ---
 
