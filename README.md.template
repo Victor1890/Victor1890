@@ -60,7 +60,7 @@ Curated projects with live GitHub stats via shields.
 
 ---
 
-## 📝 Latest Articles
+## 📙 My Latest Blog Articles
 
 {{ template "article-table" .Articles }}
 
