@@ -48,19 +48,24 @@ npx victor1890
 
 ---
 
-## 🏗️ Featured Projects
+## 🏗️ Featured & Collaboration Projects
 
-Curated projects with live GitHub stats via shields.
+Curated highlights (own repos + notable forks/contributions). Shields auto‑reflect live GitHub stats.
 
-| 📂 Project | ⭐ Stars | 🍴 Forks | 🚧 Issues | 📬 PRs |
-| --- | --- | --- | --- | --- |
-| [Profile README](https://github.com/Victor1890/Victor1890) | [![Stars](https://img.shields.io/github/stars/Victor1890/Victor1890)](https://github.com/Victor1890/Victor1890/stargazers) | [![Forks](https://img.shields.io/github/forks/Victor1890/Victor1890)](https://github.com/Victor1890/Victor1890/network/members) | [![Issues](https://img.shields.io/github/issues/Victor1890/Victor1890)](https://github.com/Victor1890/Victor1890/issues) | [![PRs](https://img.shields.io/github/issues-pr/Victor1890/Victor1890)](https://github.com/Victor1890/Victor1890/pulls) |
+| 📂 Project | 🧩 Role | ⭐ Stars | 🍴 Forks | 🚧 Issues | 📬 PRs |
+| --- | --- | --- | --- | --- | --- |
+| [Profile README](https://github.com/Victor1890/Victor1890) | Owner | [![Stars](https://img.shields.io/github/stars/Victor1890/Victor1890)](https://github.com/Victor1890/Victor1890/stargazers) | [![Forks](https://img.shields.io/github/forks/Victor1890/Victor1890)](https://github.com/Victor1890/Victor1890/network/members) | [![Issues](https://img.shields.io/github/issues/Victor1890/Victor1890)](https://github.com/Victor1890/Victor1890/issues) | [![PRs](https://img.shields.io/github/issues-pr/Victor1890/Victor1890)](https://github.com/Victor1890/Victor1890/pulls) |
+| [Groove Glimmer](https://github.com/Victor1890/groove-glimmer) | Owner | [![Stars](https://img.shields.io/github/stars/Victor1890/groove-glimmer)](https://github.com/Victor1890/groove-glimmer/stargazers) | [![Forks](https://img.shields.io/github/forks/Victor1890/groove-glimmer)](https://github.com/Victor1890/groove-glimmer/network/members) | [![Issues](https://img.shields.io/github/issues/Victor1890/groove-glimmer)](https://github.com/Victor1890/groove-glimmer/issues) | [![PRs](https://img.shields.io/github/issues-pr/Victor1890/groove-glimmer)](https://github.com/Victor1890/groove-glimmer/pulls) |
+| [Glam Folders](https://github.com/Victor1890/glam-folders) | Owner | [![Stars](https://img.shields.io/github/stars/Victor1890/glam-folders)](https://github.com/Victor1890/glam-folders/stargazers) | [![Forks](https://img.shields.io/github/forks/Victor1890/glam-folders)](https://github.com/Victor1890/glam-folders/network/members) | [![Issues](https://img.shields.io/github/issues/Victor1890/glam-folders)](https://github.com/Victor1890/glam-folders/issues) | [![PRs](https://img.shields.io/github/issues-pr/Victor1890/glam-folders)](https://github.com/Victor1890/glam-folders/pulls) |
+| [SeraJs](https://github.com/sera-js/sera) | Contributor | [![Stars](https://img.shields.io/github/stars/sera-js/sera)](https://github.com/sera-js/sera/stargazers) | [![Forks](https://img.shields.io/github/forks/sera-js/sera)](https://github.com/sera-js/sera/network/members) | [![Issues](https://img.shields.io/github/issues/sera-js/sera)](https://github.com/sera-js/sera/issues) | [![PRs](https://img.shields.io/github/issues-pr/sera-js/sera)](https://github.com/sera-js/sera/pulls) |
+| [Material UI Tel](https://github.com/viclafouch/mui-tel-input) | Contributor | [![Stars](https://img.shields.io/github/stars/viclafouch/mui-tel-input)](https://github.com/viclafouch/mui-tel-input/stargazers) | [![Forks](https://img.shields.io/github/forks/viclafouch/mui-tel-input)](https://github.com/viclafouch/mui-tel-input/network/members) | [![Issues](https://img.shields.io/github/issues/viclafouch/mui-tel-input)](https://github.com/viclafouch/mui-tel-input/issues) | [![PRs](https://img.shields.io/github/issues-pr/viclafouch/mui-tel-input)](https://github.com/viclafouch/mui-tel-input/pulls) |
+| [SQL Studio](https://github.com/frectonz/sql-studio) | Contributor | [![Stars](https://img.shields.io/github/stars/frectonz/sql-studio)](https://github.com/frectonz/sql-studio/stargazers) | [![Forks](https://img.shields.io/github/forks/frectonz/sql-studio)](https://github.com/frectonz/sql-studio/network/members) | [![Issues](https://img.shields.io/github/issues/frectonz/sql-studio)](https://github.com/frectonz/sql-studio/issues) | [![PRs](https://img.shields.io/github/issues-pr/frectonz/sql-studio)](https://github.com/frectonz/sql-studio/pulls) |
 
-> Want more here? I’ll add selected repos (apps, libs, demos) next.
+> Want more here? Forked & contributed projects will be appended automatically in a future workflow.
 
 ---
 
-## 📝 Latest Articles
+## 📙 My Latest Blog Articles
 
 
 <table>
