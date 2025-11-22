@@ -128,7 +128,7 @@ Curated highlights (own repos + notable forks/contributions). Shields auto‑ref
 
 ## 🎮 Little Game
 
-![Snake animation](output/github-contribution-grid-snake.svg)
+![Snake animation](assets/github-contribution-grid-snake.svg)
 
 ---
 
