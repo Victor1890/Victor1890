@@ -120,12 +120,6 @@ Curated highlights (own repos + notable forks/contributions). Shields auto‑ref
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victor1890&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
 ## 🎮 Little Game
 
 ![Snake animation](assets/github-contribution-grid-snake.svg)
