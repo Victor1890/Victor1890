@@ -77,6 +77,14 @@ Curated highlights (own repos + notable forks/contributions). Shields auto‑ref
 
 <table>
         <tr>
+            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frrtals92ujhhhdnz9syn.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/victor1890/why-learning-c-is-my-first-step-toward-becoming-a-game-engine-programmer-3704">Why Learning C Is My First Step Toward Becoming a...</a>
+                <div>Hi there! Happy new year 🥳🎉🎊   My name is Victor Rosario. I’m originally a Web Developer, and I...</div>
+                <div><i>31/12/2025</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5p2wmtgjemvhqzuy1ni8.jpg" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/victor1890/say-goodbye-to-slow-renders-optimizing-react-apps-with-react-scan-2cpl">🔍 Say Goodbye to Slow Renders: Optimizing React Apps with...</a>
@@ -106,14 +114,6 @@ Curated highlights (own repos + notable forks/contributions). Shields auto‑ref
                 <a href="https://dev.to/victor1890/from-good-to-great-scaling-applications-with-typeorm-optimization-837">From Good to Great: Scaling Applications with TypeORM Optimization</a>
                 <div>TypeORM is a popular Object-Relational Mapping (ORM) library for Node.js. It provides a high-level...</div>
                 <div><i>13/10/2023</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx4x4jho99l9etmwa54rv.gif" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/victor1890/exploring-the-contrast-helpers-and-utils-demystified-47bo">Exploring the Contrast: Helpers and Utils Demystified</a>
-                <div>Helpers and utils are both commonly used terms in software development to refer to classes or modules...</div>
-                <div><i>11/10/2023</i></div>
             </td>
         </tr>
 </table>
