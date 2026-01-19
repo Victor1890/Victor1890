@@ -6,7 +6,7 @@ permissions:
 on:
   workflow_dispatch:
   schedule:
-    - cron: "1 6 * * 3,6" # every Wednesday and Saturday at 6:01 AM
+    - cron: "0 */5 * * *" # every 5 hours
 jobs:
   devcard:
     runs-on: ubuntu-latest
