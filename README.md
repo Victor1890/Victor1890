@@ -77,6 +77,14 @@ Curated highlights (own repos + notable forks/contributions). Shields auto‑ref
 
 <table>
         <tr>
+            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1yxdqpwvjsgs0h1gfgtl.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/victor1890/production-is-not-a-joke-a-lesson-i-learned-the-hard-way-5blo">Production Is Not a Joke: A Lesson I Learned the...</a>
+                <div>Hi there, it’s me again. Today, I want to share a great (and painful) experience I had while...</div>
+                <div><i>18/01/2026</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frrtals92ujhhhdnz9syn.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/victor1890/why-learning-c-is-my-first-step-toward-becoming-a-game-engine-programmer-3704">Why Learning C Is My First Step Toward Becoming a...</a>
@@ -106,14 +114,6 @@ Curated highlights (own repos + notable forks/contributions). Shields auto‑ref
                 <a href="https://dev.to/victor1890/the-best-orms-for-nodejs-app-development-in-2023-1blk">The Best ORMs for Node.js App Development in 2023</a>
                 <div>What is an ORM?   Object-relational mapping (ORMs) are a type of software that provides a...</div>
                 <div><i>01/11/2023</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe53kttkird29cszce655.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/victor1890/from-good-to-great-scaling-applications-with-typeorm-optimization-837">From Good to Great: Scaling Applications with TypeORM Optimization</a>
-                <div>TypeORM is a popular Object-Relational Mapping (ORM) library for Node.js. It provides a high-level...</div>
-                <div><i>13/10/2023</i></div>
             </td>
         </tr>
 </table>
