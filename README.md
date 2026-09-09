@@ -1,7 +1,7 @@
 
 # I'm Victor J. Rosario V
 
-[![Email](https://img.shields.io/badge/Email-victorrosariodeveloper%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@victorrosario.dev)
+[![Email](https://img.shields.io/badge/Email-hello%40victorrosario.dev-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@victorrosario.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-victor--j--rosario--v-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-j-rosario-v/?locale=en_US)
 [![Dev.to](https://img.shields.io/badge/Dev.to-@victor1890-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/victor1890)
 
