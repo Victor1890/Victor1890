@@ -2,7 +2,7 @@
 # I'm Victor J. Rosario V
 
 [![Email](https://img.shields.io/badge/Email-hello%40victorrosario.dev-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@victorrosario.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-victor--j--rosario--v-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-j-rosario-v/?locale=en_US)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-victor--rosario-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-rosario-dev)
 [![Dev.to](https://img.shields.io/badge/Dev.to-@victor1890-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/victor1890)
 
 <div align="right">
@@ -13,9 +13,14 @@
 
 ---
 
-## Full Stack Developer
+## Senior Software Engineer
 
-> Building web apps end‑to‑end with JavaScript/TypeScript across the stack. Passionate about clean architectures, performance, and developer experience.
+> 6+ years building scalable, production-grade web apps with **JavaScript/TypeScript, React, Node.js and PostgreSQL**. I own features end-to-end, from planning and architecture to deployment and maintenance, with a focus on clean architecture, reliability, performance and testing.
+
+- 📍 Dominican Republic
+- 🏛️ Lead Frontend Developer @ National Competitiveness Council
+- 🤖 Building AI-powered features with LLM APIs (OpenAI, Claude)
+- 🌐 [victorrosario.dev](https://www.victorrosario.dev)
 
 <!-- TIP-LIST:START -->
 > [!TIP]
@@ -50,7 +55,55 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 💼 Experience
+
+| Role | Company | Period |
+| --- | --- | --- |
+| **Lead Frontend Developer** | National Competitiveness Council | 09/2023 – Present |
+| **Full-Stack Developer** | Media Revolution, SRL | 09/2021 – 09/2023 |
+| **Software Developer** | Yo Navego Seguro | 11/2020 – 03/2021 |
+| **Website Developer** | Marena Beach Residences | 07/2020 – 11/2020 |
+
+**Highlights**
+- Own large-scale, citizen-facing platforms (incl. **gob.do** and **Meetings**) serving thousands of concurrent users.
+- Shipped LLM-powered features (OpenAI, Claude) with streaming responses: ~40% fewer manual user interactions, ~50% faster data processing.
+
+---
+
+## 🌍 Open Source
+
+**Linux & Systems**
+- **PearOS ISO** (328+ ⭐): fixed cross-distro build failures, enabling ISO builds on CachyOS, Manjaro and other Arch-based distros.
+- **Pulsar OS**: built core apps (Spotlight, Welcome, Recovery) in Rust/React/Tauri/GTK4; authored PKGBUILDs and ISO build scripts (SquashFS, GRUB, rEFInd).
+- **PearOS Installer** (24+ ⭐): refactored the Electron installer into modular steps/pages.
+- **PearOS PKGBUILDs** (8+ ⭐): authored full build/usage/package documentation.
+
+**Developer Tools & Web**
+- **SQL Studio** (3.7k+ ⭐): optimized the React/Vite/Monaco frontend of a Rust-powered SQL explorer (PostgreSQL, MySQL, SQLite, DuckDB).
+- **Outerbase Studio**, **SeraJs**, **Material UI Tel**: React/TypeScript features and DX improvements.
+- **PulsarOS Website**: owner & tech lead (Astro, Tailwind CSS, GSAP, TypeScript).
+
+---
+
+## 🎓 Education & Learning
+
+- **Software Technologist**, Technological Institute of the Americas (ITLA), 2022
+- TypeScript Master Class (Microsoft) · Back End Development and APIs and JavaScript Algorithms (freeCodeCamp) · Redis Data Structures (Redis University) · Node.js with Express.js
+- 🗣️ Spanish (native) · English (elementary)
 
 ---
 
@@ -67,6 +120,12 @@ Curated highlights (own repos + notable forks/contributions). Shields auto‑ref
 | [Outerbase Studio](https://github.com/outerbase/studio) | Contributor | [![Stars](https://img.shields.io/github/stars/outerbase/studio)](https://github.com/outerbase/studio/stargazers) | [![Forks](https://img.shields.io/github/forks/outerbase/studio)](https://github.com/outerbase/studio/network/members) | [![Issues](https://img.shields.io/github/issues/outerbase/studio)](https://github.com/outerbase/studio/issues) | [![PRs](https://img.shields.io/github/issues-pr/outerbase/studio)](https://github.com/outerbase/studio/pulls) |
 | [Material UI Tel](https://github.com/viclafouch/mui-tel-input) | Contributor | [![Stars](https://img.shields.io/github/stars/viclafouch/mui-tel-input)](https://github.com/viclafouch/mui-tel-input/stargazers) | [![Forks](https://img.shields.io/github/forks/viclafouch/mui-tel-input)](https://github.com/viclafouch/mui-tel-input/network/members) | [![Issues](https://img.shields.io/github/issues/viclafouch/mui-tel-input)](https://github.com/viclafouch/mui-tel-input/issues) | [![PRs](https://img.shields.io/github/issues-pr/viclafouch/mui-tel-input)](https://github.com/viclafouch/mui-tel-input/pulls) |
 | [SQL Studio](https://github.com/frectonz/sql-studio) | Contributor | [![Stars](https://img.shields.io/github/stars/frectonz/sql-studio)](https://github.com/frectonz/sql-studio/stargazers) | [![Forks](https://img.shields.io/github/forks/frectonz/sql-studio)](https://github.com/frectonz/sql-studio/network/members) | [![Issues](https://img.shields.io/github/issues/frectonz/sql-studio)](https://github.com/frectonz/sql-studio/issues) | [![PRs](https://img.shields.io/github/issues-pr/frectonz/sql-studio)](https://github.com/frectonz/sql-studio/pulls) |
+| [PearOS ISO](https://github.com/pearOS-archlinux/iso) | Contributor | [![Stars](https://img.shields.io/github/stars/pearOS-archlinux/iso)](https://github.com/pearOS-archlinux/iso/stargazers) | [![Forks](https://img.shields.io/github/forks/pearOS-archlinux/iso)](https://github.com/pearOS-archlinux/iso/network/members) | [![Issues](https://img.shields.io/github/issues/pearOS-archlinux/iso)](https://github.com/pearOS-archlinux/iso/issues) | [![PRs](https://img.shields.io/github/issues-pr/pearOS-archlinux/iso)](https://github.com/pearOS-archlinux/iso/pulls) |
+| [PearOS Installer](https://github.com/pearOS-archlinux/pearOS-installer) | Contributor | [![Stars](https://img.shields.io/github/stars/pearOS-archlinux/pearOS-installer)](https://github.com/pearOS-archlinux/pearOS-installer/stargazers) | [![Forks](https://img.shields.io/github/forks/pearOS-archlinux/pearOS-installer)](https://github.com/pearOS-archlinux/pearOS-installer/network/members) | [![Issues](https://img.shields.io/github/issues/pearOS-archlinux/pearOS-installer)](https://github.com/pearOS-archlinux/pearOS-installer/issues) | [![PRs](https://img.shields.io/github/issues-pr/pearOS-archlinux/pearOS-installer)](https://github.com/pearOS-archlinux/pearOS-installer/pulls) |
+| [PearOS PKGBUILDs](https://github.com/pearOS-archlinux/pkgbuilds) | Contributor | [![Stars](https://img.shields.io/github/stars/pearOS-archlinux/pkgbuilds)](https://github.com/pearOS-archlinux/pkgbuilds/stargazers) | [![Forks](https://img.shields.io/github/forks/pearOS-archlinux/pkgbuilds)](https://github.com/pearOS-archlinux/pkgbuilds/network/members) | [![Issues](https://img.shields.io/github/issues/pearOS-archlinux/pkgbuilds)](https://github.com/pearOS-archlinux/pkgbuilds/issues) | [![PRs](https://img.shields.io/github/issues-pr/pearOS-archlinux/pkgbuilds)](https://github.com/pearOS-archlinux/pkgbuilds/pulls) |
+| [Pulsar OS ISO](https://github.com/Inled-Pulsar-OS/ISO) | Contributor | [![Stars](https://img.shields.io/github/stars/Inled-Pulsar-OS/ISO)](https://github.com/Inled-Pulsar-OS/ISO/stargazers) | [![Forks](https://img.shields.io/github/forks/Inled-Pulsar-OS/ISO)](https://github.com/Inled-Pulsar-OS/ISO/network/members) | [![Issues](https://img.shields.io/github/issues/Inled-Pulsar-OS/ISO)](https://github.com/Inled-Pulsar-OS/ISO/issues) | [![PRs](https://img.shields.io/github/issues-pr/Inled-Pulsar-OS/ISO)](https://github.com/Inled-Pulsar-OS/ISO/pulls) |
+| [Pulsar OS PKG](https://github.com/Inled-Pulsar-OS/PKG) | Contributor | [![Stars](https://img.shields.io/github/stars/Inled-Pulsar-OS/PKG)](https://github.com/Inled-Pulsar-OS/PKG/stargazers) | [![Forks](https://img.shields.io/github/forks/Inled-Pulsar-OS/PKG)](https://github.com/Inled-Pulsar-OS/PKG/network/members) | [![Issues](https://img.shields.io/github/issues/Inled-Pulsar-OS/PKG)](https://github.com/Inled-Pulsar-OS/PKG/issues) | [![PRs](https://img.shields.io/github/issues-pr/Inled-Pulsar-OS/PKG)](https://github.com/Inled-Pulsar-OS/PKG/pulls) |
+| [PulsarOS Website](https://github.com/Inled-Pulsar-OS/os.inled.es) | Owner & Tech Lead | [![Stars](https://img.shields.io/github/stars/Inled-Pulsar-OS/os.inled.es)](https://github.com/Inled-Pulsar-OS/os.inled.es/stargazers) | [![Forks](https://img.shields.io/github/forks/Inled-Pulsar-OS/os.inled.es)](https://github.com/Inled-Pulsar-OS/os.inled.es/network/members) | [![Issues](https://img.shields.io/github/issues/Inled-Pulsar-OS/os.inled.es)](https://github.com/Inled-Pulsar-OS/os.inled.es/issues) | [![PRs](https://img.shields.io/github/issues-pr/Inled-Pulsar-OS/os.inled.es)](https://github.com/Inled-Pulsar-OS/os.inled.es/pulls) |
 
 > Want more here? Forked & contributed projects will be appended automatically in a future workflow.
 
