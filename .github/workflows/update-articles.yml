@@ -3,8 +3,7 @@ name: "Article Dev"
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */5 * * *" # every 5 hours
-  push:
+    - cron: "0 6 * * *" # daily
 jobs:
   update-articles:
     permissions: write-all
