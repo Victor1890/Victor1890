@@ -15,19 +15,19 @@
 
 ## 👋 About
 
-> Senior Software Engineer with 6+ years building scalable, production-grade web apps with **JavaScript/TypeScript, React, Node.js and PostgreSQL**. I own features end-to-end, from planning and architecture to deployment and maintenance, with a focus on clean architecture, reliability, performance and testing.
+> Senior Software Engineer and Lead Frontend Developer with 6+ years building government platforms at national scale. I architect scalable **React, Next.js and TypeScript** apps for 10M+ Dominican citizens (gob.do, Registro de Cuenta Única, citas.conadis.gob.do), with AI-powered automation using OpenAI and Claude APIs.
 
-- 📍 Dominican Republic
-- 🏛️ Lead Frontend Developer @ National Competitiveness Council
+- 📍 Santo Domingo, Dominican Republic
+- 🏛️ Lead Frontend Developer @ Consejo Nacional de Competitividad (CNC)
 - 🤖 Building AI-powered features with LLM APIs (OpenAI, Claude)
 - 🌐 [victorrosario.dev](https://www.victorrosario.dev)
 
 ### ✨ Highlights
 
-- 🏛️ Own citizen-facing platforms such as **gob.do** and **Meetings**, serving thousands of concurrent users
-- 🤖 Shipped LLM features (OpenAI, Claude) that cut manual user interactions by ~40% and sped up data processing by ~50%
+- 🏛️ Architect frontend for **20+ modules** behind gob.do: **15–30K daily transactions** and **50M+ annual government trámites**
+- 🤖 Shipped LLM features (OpenAI, Claude) that cut manual data processing by ~40%
+- 👥 Mentor frontend developers on React, TypeScript, performance and testing (Playwright, Vitest)
 - ⭐ Contributor to **SQL Studio** (3.7k+ ⭐) and **PearOS ISO** (328+ ⭐)
-
 
 > [!TIP]
 > Open to senior software engineering roles and select collaborations. Have a product to ship or a team to strengthen? Let’s talk.
@@ -89,14 +89,16 @@
 
 | Role | Company | Period |
 | --- | --- | --- |
-| **Lead Frontend Developer** | National Competitiveness Council | 09/2023 – Present |
+| **Lead Frontend Developer** | Consejo Nacional de Competitividad | 09/2023 – Present |
 | **Full-Stack Developer** | Media Revolution, SRL | 09/2021 – 09/2023 |
-| **Software Developer** | Yo Navego Seguro | 11/2020 – 03/2021 |
-| **Website Developer** | Marena Beach Residences | 07/2020 – 11/2020 |
+| **Full-Stack Developer** | Fur | 01/2021 – 04/2021 |
+| **Software Developer AVR** · **Scrum Master** | PCSD, Parque Cibernético de Santo Domingo | 08/2020 – 05/2021 |
+| **Web Developer** | Dominican Futures Youth Movement | 03/2020 – 05/2020 |
 
 **Highlights**
-- Own large-scale, citizen-facing platforms (incl. **gob.do** and **Meetings**) serving thousands of concurrent users.
-- Shipped LLM-powered features (OpenAI, Claude) with streaming responses: ~40% fewer manual user interactions, ~50% faster data processing.
+- Lead frontend strategy for national civic platforms: **gob.do**, **Registro de Cuenta Única** and **citas.conadis.gob.do**.
+- Own state management (Zustand, React Query) and performance across high-traffic government systems, with WCAG accessibility.
+- Built end-to-end React, Node.js, GraphQL and microservices apps at Media Revolution; integrated OpenAI for content generation and cut manual work by ~40%.
 
 ---
 
@@ -117,9 +119,9 @@
 
 ## 🎓 Education & Learning
 
-- **Software Technologist**, Technological Institute of the Americas (ITLA), 2022
-- TypeScript Master Class (Microsoft) · Back End Development and APIs and JavaScript Algorithms (freeCodeCamp) · Redis Data Structures (Redis University) · Node.js with Express.js
-- 🗣️ Spanish (native) · English (elementary)
+- **Associate of Science, Computer Software Engineering**, ITLA, 2018 – 2022
+- TypeScript Master Class (Microsoft) · Back End Development and APIs and JavaScript Algorithms (freeCodeCamp) · Redis Data Structures (Redis University) · Node.js with Express.js · IT Essentials · PCSD Certified AR & VR Developer Level 1
+- 🗣️ Spanish (native) · English (limited working)
 
 ---
 
