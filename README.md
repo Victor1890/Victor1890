@@ -29,6 +29,7 @@
 - 👥 Mentor frontend developers on React, TypeScript, performance and testing (Playwright, Vitest)
 - ⭐ Contributor to **SQL Studio** (3.7k+ ⭐) and **PearOS ISO** (328+ ⭐)
 
+
 > [!TIP]
 > Open to senior software engineering roles and select collaborations. Have a product to ship or a team to strengthen? Let’s talk.
 >
